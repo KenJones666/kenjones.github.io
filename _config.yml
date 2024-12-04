@@ -51,27 +51,9 @@ about_content: | # this will include new lines to allow paragraphs
  I am a skilled Cloud Administrator with nearly 5 years of experience managing and optimizing cloud environments across AWS, Google Cloud Platform (GCP), and Microsoft Azure. My expertise includes designing, deploying, and maintaining scalable, secure, and cost-efficient cloud solutions. Proficient in cloud infrastructure, networking, automation, and monitoring, I am committed to leveraging cutting-edge technologies to drive business innovation and efficiency. I thrive in collaborative environments and enjoy solving complex challenges to ensure seamless cloud operations and continuous improvement.
 
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+  I am most skilled in: <mark>AWS</mark> <mark>Azure Cloud</mark> <mark>Google Cloud</mark> <mark>Network and Cloud Architecture</mark>
 
 content:
-  - title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
-        # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
-        quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
-        description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
