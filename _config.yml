@@ -6,23 +6,23 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Brett Harris
-title: Senior Network System Administrator
-email: brett.h@email.co.uk
-website: www.github.com/sproogen/resume-theme
+name: Ken Jones
+title: Senior Cloud Administrator
+email: ken_jones136@gmail.com
+website: https://kenjones666.github.io/kenjones.github.io/
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+twitter_username: aia.co.th
+github_username:  aia.co.th
 # stackoverflow_username: "00000001"
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: jameswgrant
-linkedin_username: jameswgrant
+#instagram_username: jameswgrant
+#linkedin_username: jameswgrant
 # xing_username: jekyll
 # pinterest_username: jekyll
 youtube_username: globalmtb
@@ -48,7 +48,8 @@ additional_links:
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+ I am a skilled Cloud Administrator with nearly 5 years of experience managing and optimizing cloud environments across AWS, Google Cloud Platform (GCP), and Microsoft Azure. My expertise includes designing, deploying, and maintaining scalable, secure, and cost-efficient cloud solutions. Proficient in cloud infrastructure, networking, automation, and monitoring, I am committed to leveraging cutting-edge technologies to drive business innovation and efficiency. I thrive in collaborative environments and enjoy solving complex challenges to ensure seamless cloud operations and continuous improvement.
+
 
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
