@@ -66,19 +66,6 @@ content:
         description: | # this will include new lines to allow paragraphs
             I had the incredible opportunity to intern at Google for three months, where I gained hands-on experience working on innovative projects in a fast-paced, collaborative environment. During this time, I honed my technical and problem-solving skills, contributed to impactful projects, and learned from some of the best minds in the industry. My internship reinforced my passion for technology and innovation while giving me a deeper understanding of professional workflows, teamwork, and the importance of user-centered solutions.
 
-  - title: Experience # Title for the section
-    layout: list # Type of content section (list/text)
-    content:
-      - layout: left
-        title: Google (Alphabet Inc.)
-        link: abc.xyz | google.com
-        sub_title: Intern
-        caption: November 2014 - February 2015
-        description: | # this will include new lines to allow paragraphs
-
-        I had the incredible opportunity to intern at Google for three months, where I gained hands-on experience working on innovative projects in a fast-paced, collaborative environment. During this time, I honed my technical and problem-solving skills, contributed to impactful projects, and learned from some of the best minds in the industry. My internship reinforced my passion for technology and innovation while giving me a deeper understanding of professional workflows, teamwork, and the importance of user-centered solutions.
-
-
       - layout: left
         title: InstinctTools
         link: https://www.instinctools.com/company/
